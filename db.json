@@ -1,7 +1,7 @@
 {
     "kidEvents":[
             {
-                "eventId":1,
+                "id":1,
                 "eventGroupId": 1,
                 "eventName": "Swimming",
                 "eventDescription": "Kids will be enter tained and performed in Swimming"
