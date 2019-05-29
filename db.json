@@ -1,8 +1,10 @@
-[
-    {
-        eventId:1,
-        eventGroupId: 1,
-        eventName: "Swimming",
-        eventDescription: "Kids will be enter tained and performed in Swimming"
-    }
-]
+{
+    "kidEvents":[
+            {
+                "eventId":1,
+                "eventGroupId": 1,
+                "eventName": "Swimming",
+                "eventDescription": "Kids will be enter tained and performed in Swimming"
+            }
+       ]
+}
